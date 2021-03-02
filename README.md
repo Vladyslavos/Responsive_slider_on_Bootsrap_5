@@ -1,1 +1,1 @@
-<h1 align = "center">Responsive slider on Bootsrap_5</h1>
+<h1 align = "center">Responsive slider on Bootsrap 5</h1>
