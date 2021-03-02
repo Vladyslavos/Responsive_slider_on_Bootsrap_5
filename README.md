@@ -1,1 +1,1 @@
-# Responsive_slider_on_Bootsrap_5
+<h1 width="center">Responsive slider on Bootsrap_5</h1>
