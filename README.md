@@ -8,6 +8,6 @@
 <p align="center">
 <img alt="html" width="65px" src="used_technologies/html_skill.png"/>
 <img alt="css" width="65px" src="used_technologies/css_skill.png"/>
-<img alt="SCSS" width="55px" src="used_technologies/bootstrap_skill.png"/>
+<img alt="Bootstrap" width="55px" src="used_technologies/bootstrap_skill.png"/>
 </p>
 
